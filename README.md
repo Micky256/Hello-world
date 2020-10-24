@@ -1,10 +1,11 @@
 # Let's start Microsoft Teams !
 
-( Ooops!, this article is written in Japanese. )
+( Oops!, this article is written in Japanese. )
 
 マイクロソフトが提供しているファイル共有，テレビ会議などができる
 コラボレーションアプリである"Teams"の始め方とつまづきやすいポイント，
 しておくとよい設定項目とかを書いていきます．
+
 
 
 ## 目次
@@ -13,6 +14,8 @@
 2. Teamsのインストール
 3. しておくとよい設定項目
 4. Zoomとの違い
+
+
 
 
 ## 1. Microsoftアカウントを作る
